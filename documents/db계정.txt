@@ -1,0 +1,10 @@
+
+- Mariadb 10.6
+    ip: localhost
+    port: 3306
+    db: zero-base
+    id: minicampus
+    pw: a1234
+
+    지메일 앱 비밀번호
+    unor jcec emsw ktgt
